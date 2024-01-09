@@ -36,6 +36,13 @@ class IngestionHelper:
     @staticmethod
     def _load_file_to_documents(file_name: str, file_data: Path) -> list[Document]:
         logger.debug("Transforming file_name=%s into documents", file_name)
+
+        """ If the file_name starts with "~", then it is not a real file. It's a PPT placeholder
+         for an open file. We should not ingest it. """
+        if file_name.startswith("~"):
+            logger.debug("Skipping file_name=%s", file_name)
+            return []
+            
         extension = Path(file_name).suffix
         reader_cls = FILE_READER_CLS.get(extension)
         if reader_cls is None:
