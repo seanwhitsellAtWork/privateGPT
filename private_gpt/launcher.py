@@ -45,7 +45,7 @@ def create_app(root_injector: Injector) -> FastAPI:
 
     if settings.ui.enabled:
         logger.debug("Importing the UI module")
-        from private_gpt.ui.ui import PrivateGptUi
+        from private_gpt.ui.simpleui import PrivateGptUi
 
         ui = root_injector.get(PrivateGptUi)
         ui.mount_in_app(app, settings.ui.path)

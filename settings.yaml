@@ -6,9 +6,11 @@ server:
   port: ${PORT:8001}
   cors:
     enabled: false
+    allow_credentials: true
     allow_origins: ["*"]
     allow_methods: ["*"]
     allow_headers: ["*"]
+    allow_origin_regex: ["*"]
   auth:
     enabled: false
     # python -c 'import base64; print("Basic " + base64.b64encode("secret:key".encode()).decode())'
@@ -21,7 +23,7 @@ data:
 
 ui:
   enabled: true
-  path: /
+  path: /willma
   default_chat_system_prompt: >
     You are a helpful, respectful and honest assistant. 
     Always answer as helpfully as possible and follow ALL given instructions.

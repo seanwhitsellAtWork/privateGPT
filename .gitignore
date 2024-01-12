@@ -1,4 +1,6 @@
 .venv
+Eguidances/*
+LnLaudio/*
 
 settings-me.yaml
 
@@ -31,3 +33,4 @@ __pycache__/
 node_modules/**
 LnL/*
 tmp_image.wmf
+
