@@ -1,0 +1,75 @@
+01 - Effective Mentoring and Feedback in Medical Writing - 19April2023.mp3
+02 - Good Clinical Practice (GCP) + Declartation of Helsiniki - 26April2023.mp3
+03 - Quality Control (QC)-Best Practices - 03May2023.mp3
+04 - Advanced WIers - Public Disclosure - 10May2023.mp3
+05 - Advanced WIers - Response to Questions (RTQs) - 17May2023.mp3
+05 - Interns_New Hires - Overview of Document Types - 17May2023.mp3
+06 - Organization and Function of the Food and Drug Administration (FDA) - 24May2023.mp3
+07 - Drug Development Pathways - 31May2023.mp3
+08 - Kickoff Meetings (KOMs) - 07June2023.mp3
+09 - Best Practices for Document Review and Roundtables - 14June2023.mp3
+1 - Intern Kickoff Meeting & Good Clinical Practice (GCP) & Declaration of Helsinki - 28April2021.mp3
+10 - Advanced WIers - Briefing Books - 21June2023.mp3
+10 - Intern_New Hires - Client Communication Best Practices - 21June2023.mp3
+11 - Who's Who in Clinical Development - 28June2023.mp3
+12 - Introduction to Clinical Study Reports (CSRs) - 05July2023.mp3
+13 - Advanced WIers - Interim CSRs - 12July2023.mp3
+13 - Intern_New Hires - Writing CSRs - From TLFs to Report - 12July2023.mp3
+14 - Trends in the Use and Direction of Tech in MW Industry and at WI - 19JUL2023.mp3
+15 - Intern_New Hires - Statistics in Clinical Documents - 26July2023.mp3
+16 - Summarizing Clinical Efficacy Data - 02August2023.mp3
+17 - Patient Reported Outcomes - 09August2023.mp3
+18 - PK_PD-What Does it Mean - 16August2023 (1).mp3
+18 - PK_PD-What Does it Mean - 16August2023 (2).mp3
+18 - PK_PD-What Does it Mean - 16August2023.mp3
+19 - Summarizing Clinical and Safety Data I - 23August2023.mp3
+20 - SummarizingClinical and Safety Data II - 30August2023.mp3
+21 - The Protection of  Human Research Participants - 06September2023.mp3
+22 - Safety Narrative Writing - 13September2023.mp3
+23 - Process for Finalizing Documents - 20September2023.mp3
+24 - Medical Device Primer_ A Level 101 Class - 27September2023.mp3
+25 - Therapeutic Area_Hepatology - 04October2023.mp3
+26 - Protocol Writing_Best Practices & QC - 11October2023.mp3
+27 - Best Practices for Writing IBs - 18October2023.mp3
+28 - Writing Clinical Summary Documents for an NDA - 01November2023.mp3
+29 - Lean Authoring - 08November2023.mp3
+30 - Electronic Common Technical (eCTD) + Publishing_15November2023.mp3
+31 - Orphan Drug Designation (ODD) - 29November2023.mp3
+E10_Guideline.pdf
+E11_R1_Addendum.pdf
+E12_Guideline.pdf
+E14-S7B_QAs_Step4_2022_0221.pdf
+E14_Guideline.pdf
+E14_Q_As_R3_Q_As.pdf
+E15_Guideline.pdf
+E16_Guideline.pdf
+E17EWG_Step4_2017_1116.pdf
+E18_Guideline.pdf
+E1_Guideline.pdf
+E2A_Guideline.pdf
+E2CR2_Q_As_Q_As.pdf
+E2C_R2_Guideline.pdf
+E2D_Guideline.pdf
+E2E_Guideline.pdf
+E2F_Guideline.pdf
+E3_Guideline.pdf
+E3_Q_As_R1_Q_As.pdf
+E4_Guideline.pdf
+E5_Q_As__R1_Q_As.pdf
+E5_R1__Guideline.pdf
+E6_R2_Addendum.pdf
+E7_Guideline.pdf
+E7_Q_As_Q_As.pdf
+E9-R1_Step4_Guideline_2019_1203.pdf
+E9_Guideline.pdf
+ICH_E11A_Document_Step2_Guideline_2022_0404_0.pdf
+ICH_E17_Training_Module1_2019_0806.pdf
+ICH_E17_Training_Module2_2019_0806.pdf
+ICH_E17_Training_Module3_2019_0806.pdf
+ICH_E17_Training_Module4_2019_0806.pdf
+ICH_E17_Training_Module5_2019_0806.pdf
+ICH_E17_Training_Module6_2019_0806.pdf
+ICH_E17_Training_Module7_2019_0806.pdf
+ICH_E19_Guideline_Step4_2022_0826_0.pdf
+ICH_E6(R3)_DraftGuideline_2023_0519.pdf
+ICH_E8-R1_Guideline_Step4_2021_1006.pdf

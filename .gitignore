@@ -34,3 +34,5 @@ node_modules/**
 LnL/*
 tmp_image.wmf
 
+local_data/*
+.lock

@@ -1,0 +1,2174 @@
+{
+  "object": "list",
+  "model": "private-gpt",
+  "data": [
+    {
+      "object": "ingest.document",
+      "doc_id": "1c17b6d2-f870-44ee-9413-348c4a1a9b96",
+      "doc_metadata": {
+        "page_label": "15",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "240f056c-6cdf-4137-970c-3f28ad7ae4ab",
+      "doc_metadata": {
+        "page_label": "7",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "29b75215-4d93-43cb-958c-99422979e740",
+      "doc_metadata": {
+        "page_label": "21",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "87a41101-b002-45b4-88f3-908a02206906",
+      "doc_metadata": {
+        "page_label": "16",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "cfa1b6e7-669b-4092-b13c-76d838b4438c",
+      "doc_metadata": {
+        "page_label": "6",
+        "file_name": "D1S04-Thompson.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "8e07e9bd-8b3d-4913-9be8-53a06f584f1f",
+      "doc_metadata": {
+        "file_name": "01 - Effective Mentoring and Feedback in Medical Writing - 19April2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "ee7715d3-1c42-4bb9-8ed9-3e652039f14c",
+      "doc_metadata": {
+        "page_label": "30",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "5c9e6cd8-5e1b-46c9-b95f-c599873ed8f9",
+      "doc_metadata": {
+        "page_label": "38",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "05902899-0915-4edd-abba-1974b63dbd53",
+      "doc_metadata": {
+        "page_label": "16",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "3da3737b-926a-433f-9ebc-6c06fa8a30fd",
+      "doc_metadata": {
+        "page_label": "18",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "ae5dd2a6-4c96-4ca1-9f81-5171f039ced1",
+      "doc_metadata": {
+        "file_name": "18 - PK_PD-What Does it Mean - 16August2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "5b694a66-c485-400d-98fc-a2c61fb3a137",
+      "doc_metadata": {
+        "page_label": "17",
+        "file_name": "32 - Good Pharmacovigilance Practices (GVP) - 06December2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "3a72dcae-042d-4ff9-8e3f-44a899ace2c2",
+      "doc_metadata": {
+        "page_label": "20",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "391f7526-9603-47df-942d-67cd03929e90",
+      "doc_metadata": {
+        "file_name": "26 - Protocol Writing_Best Practices & QC - 11October2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "24f4ddae-0974-48c7-8cff-beca20e45207",
+      "doc_metadata": {
+        "file_name": "01 - Effective Mentoring and Feedback in Medical Writing - 19April2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "b441efa6-afff-42bd-a424-9c00a1c01c68",
+      "doc_metadata": {
+        "file_name": "08 - Kickoff Meetings (KOMs) - 07June2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "cbe9cb27-36c4-4d42-9d20-e3e6d48dab88",
+      "doc_metadata": {
+        "file_name": "15 - Intern_New Hires - Statistics in Clinical Documents_26July2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "02dfc5c1-490c-4e3b-a3f1-48a3f75ab601",
+      "doc_metadata": {
+        "page_label": "23",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "509d4a3d-35d5-467d-a02b-5b39d17307a6",
+      "doc_metadata": {
+        "page_label": "9",
+        "file_name": "32 - Good Pharmacovigilance Practices (GVP) - 06December2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "6af30569-b424-4f53-b87d-dbcb9504233b",
+      "doc_metadata": {
+        "page_label": "27",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "24925f08-eab6-42f9-a862-cb3fa96fb63d",
+      "doc_metadata": {
+        "file_name": "04 - Advanced WIers - Public Disclosure - 10May2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "277cb510-7ef0-4f50-a021-b3b0b7f7b352",
+      "doc_metadata": {
+        "page_label": "12",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "763ba71d-1525-4212-b8c1-eb4082bb1e92",
+      "doc_metadata": {
+        "page_label": "7",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "292b02aa-b182-4c16-a46f-c9eda40db137",
+      "doc_metadata": {
+        "page_label": "7",
+        "file_name": "32 - Good Pharmacovigilance Practices (GVP) - 06December2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "22b538e6-0fb7-43b2-8e40-caf867834cdb",
+      "doc_metadata": {
+        "file_name": "09 - Best Practices for Document Review and Roundtables - 14June2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "22e05232-c75e-4188-a106-7b946b1c3f9d",
+      "doc_metadata": {
+        "page_label": "37",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "55afcf2d-0a5f-43db-ad8a-705f8f362dc2",
+      "doc_metadata": {
+        "page_label": "19",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "6927cb8f-818c-4c7a-ae73-367bbea4f04e",
+      "doc_metadata": {
+        "page_label": "25",
+        "file_name": "D1S04-Thompson.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "46ac965b-b77b-4575-9bdd-d3a46a175474",
+      "doc_metadata": {
+        "file_name": "30 - Electronic Common Technical (eCTD) + Publishing_15November2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "ec4467b6-81ca-4284-b563-b535071d6c66",
+      "doc_metadata": {
+        "page_label": "11",
+        "file_name": "D1S04-Thompson.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "2de4f95e-0d8f-4e6f-b15c-30e843b4a2a1",
+      "doc_metadata": {
+        "page_label": "27",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "b07b0bb1-afcf-4df2-ab97-7978875b5eab",
+      "doc_metadata": {
+        "file_name": "04 - Advanced WIers - Public Disclosure - 10May2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "fc2b8abd-d886-41f5-b0bc-0b6d12f24fb4",
+      "doc_metadata": {
+        "page_label": "26",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "9733e599-4bb9-4631-94b4-693316a2635e",
+      "doc_metadata": {
+        "file_name": "04 - Interns_New Hires - Usage and Style Guides - 10May2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "f09b001e-2c9a-478e-993d-35753a873bd8",
+      "doc_metadata": {
+        "page_label": "34",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "85a1ab56-a5e1-4217-b237-9abc87b51685",
+      "doc_metadata": {
+        "file_name": "23 - Process for Finalizing Documents_20September2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "0f572b5e-cdcb-4323-86c1-1cc1ce00cc59",
+      "doc_metadata": {
+        "page_label": "28",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "e3eeaa57-d846-4d01-9b6b-bd3bd4cd026b",
+      "doc_metadata": {
+        "page_label": "31",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "eee986aa-962e-4a18-920c-9e50c2689e9c",
+      "doc_metadata": {
+        "page_label": "26",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "200df632-45cf-47cf-8673-6328cdb67ed7",
+      "doc_metadata": {
+        "page_label": "32",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "3f2618b8-c7b1-4e8a-a27d-3e01d4f5f61b",
+      "doc_metadata": {
+        "page_label": "8",
+        "file_name": "32 - Good Pharmacovigilance Practices (GVP) - 06December2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "37f5723f-8668-4389-9d3d-4e1272cfcfcd",
+      "doc_metadata": {
+        "file_name": "02 - Good Clinical Practice (GCP) + Declartation of Helsiniki - 26April2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "df156ed2-55a7-4732-9e33-d54f10053f41",
+      "doc_metadata": {
+        "page_label": "23",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "a4dd52b4-718a-4bf6-a15c-552060e7dffb",
+      "doc_metadata": {
+        "file_name": "05 - Advanced WIers - Response to Questions (RTQs) - 17May2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "c4d79d78-bc6d-4429-a3be-3a826b87de0d",
+      "doc_metadata": {
+        "page_label": "10",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "6c1f1f4f-8aaa-4bb5-aead-3d782d082724",
+      "doc_metadata": {
+        "page_label": "2",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "bdc05f8b-39ba-43ca-801c-bcf8fc20bfa3",
+      "doc_metadata": {
+        "page_label": "12",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "93213fd1-8a46-4f05-82c8-999e93cf4636",
+      "doc_metadata": {
+        "page_label": "35",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "fdb1f531-6a1a-422c-b431-5ed9911ceae7",
+      "doc_metadata": {
+        "page_label": "22",
+        "file_name": "D1S04-Thompson.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "2e427df9-77fb-457e-b1a7-bb0bfdd57dc5",
+      "doc_metadata": {
+        "page_label": "14",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "e8641006-8ff8-4a38-8e88-b738b86a8fb6",
+      "doc_metadata": {
+        "page_label": "18",
+        "file_name": "32 - Good Pharmacovigilance Practices (GVP) - 06December2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "eaa5e37f-c593-487d-94f7-04a38a3b9ffe",
+      "doc_metadata": {
+        "file_name": "05 - Interns_New Hires - Overview of Document Types - 17May2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "c1ce4ab9-9cf3-4087-9aa1-da0c60477ba2",
+      "doc_metadata": {
+        "page_label": "12",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "1e0816b3-23a9-40be-9b1f-cc6eed461c54",
+      "doc_metadata": {
+        "file_name": "04 - Interns_New Hires - Usage and Style Guides - 10May2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "e9c98e93-a771-4ea7-96f7-480fa034396c",
+      "doc_metadata": {
+        "page_label": "2",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "6b752a7d-87d8-4f80-97ae-25627c1a887a",
+      "doc_metadata": {
+        "page_label": "20",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "f643e3d6-06c7-4643-b244-ef801e48ddd9",
+      "doc_metadata": {
+        "page_label": "31",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "3a1c690b-eff1-4f01-a09e-ccfdcc64e309",
+      "doc_metadata": {
+        "page_label": "18",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "6966e294-a4b4-42ce-80e5-4bc87efad8ec",
+      "doc_metadata": {
+        "page_label": "15",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "b506fb73-5547-418d-999d-6f2e396b8c39",
+      "doc_metadata": {
+        "page_label": "28",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "16d6ce1e-5e69-41f6-a284-e5471a156c9c",
+      "doc_metadata": {
+        "page_label": "12",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "e5471ff3-1704-4d6c-b1e3-c9eed0e6db12",
+      "doc_metadata": {
+        "page_label": "17",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "b0064c1c-491a-4cbd-9deb-fc9f063b0d01",
+      "doc_metadata": {
+        "file_name": "27 - Best Practices for Writing IBs - 18October2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "e96cc415-e34a-4062-9435-e993e52b13d6",
+      "doc_metadata": {
+        "page_label": "24",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "27306d7e-c2ed-487d-b268-78c6c54ffa18",
+      "doc_metadata": {
+        "file_name": "10 - Interns_New Hires - Client Communication Best Practices - 21June2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "7586feb6-9e43-43e8-ae07-a2b285cce075",
+      "doc_metadata": {
+        "file_name": "07 - Drug Development Pathways - 31May2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "d8414e05-fec9-4f29-beb7-7c191952b818",
+      "doc_metadata": {
+        "page_label": "11",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "8a771ee3-f47d-4576-91f6-8f676fb6acb5",
+      "doc_metadata": {
+        "page_label": "10",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "a44d5e35-537b-4df1-8301-6e6cdfefa814",
+      "doc_metadata": {
+        "page_label": "11",
+        "file_name": "32 - Good Pharmacovigilance Practices (GVP) - 06December2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "19013d9d-3ccd-4cf6-8c27-691c532c21e6",
+      "doc_metadata": {
+        "file_name": "17 - Patient Reported Outcomes - 09August2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "9ec671cd-6d87-4c8a-807c-5179a86d82ab",
+      "doc_metadata": {
+        "page_label": "1",
+        "file_name": "D1S04-Thompson.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "8845dd00-384a-4160-a305-edd3f77ddb5f",
+      "doc_metadata": {
+        "page_label": "3",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "42269cf3-5a18-4a86-9d01-5a68cc10ba80",
+      "doc_metadata": {
+        "file_name": "21 - The Protection of  Human Research Participants - 06September2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "7615d2c2-5994-4054-8d34-5280caaa0571",
+      "doc_metadata": {
+        "page_label": "39",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "3ac3e6ba-d607-4d83-944b-585af9dede9b",
+      "doc_metadata": {
+        "page_label": "11",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "46b3bcb0-c935-4b77-916c-08f0a6aaf067",
+      "doc_metadata": {
+        "page_label": "10",
+        "file_name": "D1S04-Thompson.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "e3c9e002-460e-467c-aa9a-a357660dd1a2",
+      "doc_metadata": {
+        "page_label": "17",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "59fa5cfb-9127-4e3b-92af-9c7462d16d82",
+      "doc_metadata": {
+        "page_label": "9",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "a65c5cca-2d06-4a01-bb84-d38c5868b415",
+      "doc_metadata": {
+        "page_label": "41",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "3e1a2429-1864-48fc-8485-fbcecb73bf90",
+      "doc_metadata": {
+        "page_label": "38",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "7b72589c-708c-4b3f-9fe0-0597bd0bd3db",
+      "doc_metadata": {
+        "page_label": "28",
+        "file_name": "D1S04-Thompson.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "513bfef7-4c07-4fad-af9f-ec03f3e03420",
+      "doc_metadata": {
+        "file_name": "33 - Periodic Safety Reports - 13December2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "a7c87eb2-ab4e-4712-8f91-ada869a1e23e",
+      "doc_metadata": {
+        "file_name": "22 - Safety Narrative Writing - 13September2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "5e9a5cfe-1a4e-4cc3-85a7-77ecda5a1e7a",
+      "doc_metadata": {
+        "page_label": "19",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "e8289a79-3ee1-432e-9959-ae96aa94b478",
+      "doc_metadata": {
+        "page_label": "27",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "a329a6f6-1dd8-4d03-b463-47224bfa7c5f",
+      "doc_metadata": {
+        "file_name": "27 - Best Practices for Writing IBs - 18October2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "fa3d59bd-f225-41cd-b4e9-be57f8aba8f0",
+      "doc_metadata": {
+        "page_label": "39",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "be04015f-cf5d-424a-8a17-30fbec25be7d",
+      "doc_metadata": {
+        "file_name": "16 - Summarizing Clinical Efficacy Data - 02August2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "1384ea65-47a0-4721-b27e-b1e494c13073",
+      "doc_metadata": {
+        "page_label": "14",
+        "file_name": "D1S04-Thompson.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "d8f8b635-ef9c-4c5e-aad8-869fb8a1e46c",
+      "doc_metadata": {
+        "page_label": "21",
+        "file_name": "D1S04-Thompson.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "12db9ed1-83c3-45cd-8a2b-eb20687fb5ff",
+      "doc_metadata": {
+        "file_name": "10 - Advanced WIers - Briefing Books - 21June2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "0b3e6041-9c3d-4ba9-ae48-a19adee5927d",
+      "doc_metadata": {
+        "file_name": "03 - Quality Control (QC)-Best Practices - 03May2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "a6e9c3e5-e705-4b25-89fb-bda0b194752a",
+      "doc_metadata": {
+        "page_label": "6",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "b23e4125-d136-430c-ae4e-277866173773",
+      "doc_metadata": {
+        "page_label": "1",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "cef72e91-4d60-490e-9cdd-95da52dd244d",
+      "doc_metadata": {
+        "page_label": "8",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "4a873980-9048-420b-a85d-8951fe2d55ed",
+      "doc_metadata": {
+        "file_name": "23 - Process for Finalizing Documents_20September2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "96458bc8-6ea0-4f71-a711-1c37b5a50b98",
+      "doc_metadata": {
+        "page_label": "17",
+        "file_name": "D1S04-Thompson.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "84fcd770-aecd-4534-b6c0-50f7aec3c196",
+      "doc_metadata": {
+        "page_label": "19",
+        "file_name": "32 - Good Pharmacovigilance Practices (GVP) - 06December2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "07d9bf5d-5078-4478-aa5a-f784c937c43f",
+      "doc_metadata": {
+        "file_name": "28 - Writing Clinical Summary Documents for an NDA - 01November2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "7caceded-e4e0-4c9e-8969-bba9ef12c775",
+      "doc_metadata": {
+        "page_label": "19",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "6a0e2355-cdea-4d2d-9fe6-5ab972a07fa8",
+      "doc_metadata": {
+        "file_name": "12 - Introduction to Clinical Study Reports (CSRs) - 05July2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "33e04e5c-b97c-4458-aa88-404f0b20fb1e",
+      "doc_metadata": {
+        "file_name": "29 - Lean Authoring - 08November2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "431ba9c5-2dff-40c0-93dc-12d3f6bb1f2c",
+      "doc_metadata": {
+        "page_label": "29",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "c1db579b-b991-4e55-ad40-c5790e0f9996",
+      "doc_metadata": {
+        "page_label": "17",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "79a308fb-6fd5-4291-9b98-09caf6354324",
+      "doc_metadata": {
+        "page_label": "4",
+        "file_name": "D1S04-Thompson.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "1acd6374-6f99-4782-8b27-5e78d23744d3",
+      "doc_metadata": {
+        "page_label": "18",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "736bf142-951a-44ed-99c8-5715a78933a8",
+      "doc_metadata": {
+        "page_label": "5",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "4bea6f2c-b4de-456b-b99e-dbed69e9e90b",
+      "doc_metadata": {
+        "page_label": "6",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "852c6799-0873-4ac1-b716-024459a7dce0",
+      "doc_metadata": {
+        "file_name": "30 - Electronic Common Technical (eCTD) + Publishing - 15November2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "893ef319-7eff-4742-a8c0-e0ada41df94f",
+      "doc_metadata": {
+        "page_label": "16",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "98038d42-a75e-47a8-9f20-526cc6497da0",
+      "doc_metadata": {
+        "file_name": "05 - Interns_New Hires - Overview of Document Types - 17May2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "59aea4e0-f7ea-4c10-9f78-f3b890c54499",
+      "doc_metadata": {
+        "file_name": "07 - Drug Development Pathways - 31May2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "8ef5ab14-21b3-46f6-9fa7-9101786df925",
+      "doc_metadata": {
+        "page_label": "40",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "0cc7924c-dcf5-47c0-aab3-a159f94be5d9",
+      "doc_metadata": {
+        "page_label": "3",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "011dbb0b-b436-4c94-a679-0f4a969fd48a",
+      "doc_metadata": {
+        "file_name": "13 - Advanced WIers - Interim CSRs - 12July2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "d721bfd0-d953-4632-9a6b-6af10d50dfda",
+      "doc_metadata": {
+        "page_label": "9",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "792c59bb-f06f-4472-9c80-02fb22df58d2",
+      "doc_metadata": {
+        "page_label": "22",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "4496e9a9-d2f9-48f2-930a-6cf2b3cfcf8f",
+      "doc_metadata": {
+        "page_label": "31",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "2cedc346-fd98-4038-a796-731f0d64cee7",
+      "doc_metadata": {
+        "file_name": "20 - Summarizing Clinical and Safety Data II - 30August2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "91736a59-f4c8-4d2c-95f9-4a21be687832",
+      "doc_metadata": {
+        "file_name": "23 - Process for Finalizing Documents - 20September2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "e35922d3-72cb-4871-9986-a0d152b794ae",
+      "doc_metadata": {
+        "page_label": "24",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "c94edfe1-6cd9-48ff-8943-d185b23d7ffb",
+      "doc_metadata": {
+        "page_label": "29",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "fb9b8d15-bff8-4169-b40f-ed2b548b403f",
+      "doc_metadata": {
+        "file_name": "03 - Quality Control (QC)- Best Practices - 03May2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "636e5af9-1b10-409c-9859-0bb5725c41d0",
+      "doc_metadata": {
+        "page_label": "35",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "1e02e726-f330-4eb6-b541-ddfdf6222104",
+      "doc_metadata": {
+        "page_label": "16",
+        "file_name": "D1S04-Thompson.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "1382c21c-937f-4423-a537-eefee99e74f0",
+      "doc_metadata": {
+        "page_label": "32",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "a3001450-7105-4e50-b72f-8915073c52f3",
+      "doc_metadata": {
+        "page_label": "3",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "07f3b5c3-1ad1-4c88-8dd5-ba93a51cb1f3",
+      "doc_metadata": {
+        "file_name": "13 - Intern_New Hires - Writing CSRs - From TLFs to Report - 12July2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "a861d43f-0ffa-415c-9a0c-1f121a4f3163",
+      "doc_metadata": {
+        "page_label": "20",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "c81602fd-ec9b-45f6-a9e6-53beb99ac564",
+      "doc_metadata": {
+        "page_label": "22",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "a8851992-c136-4e79-adcd-a05c1f064d6b",
+      "doc_metadata": {
+        "page_label": "32",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "89a8c283-1fd1-4389-ba08-ba5e6c2585b5",
+      "doc_metadata": {
+        "page_label": "14",
+        "file_name": "32 - Good Pharmacovigilance Practices (GVP) - 06December2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "684c9f64-4bb3-4500-870e-704f5e13b1b3",
+      "doc_metadata": {
+        "page_label": "7",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "2fdef92f-06ee-49b7-999a-7d0bb4aff600",
+      "doc_metadata": {
+        "file_name": "18 - PK_PD-What Does it Mean - 16August2023 (1).mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "38276000-1f80-48c7-a9d2-c1c388370280",
+      "doc_metadata": {
+        "page_label": "11",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "dc10b02b-675e-4173-9bf3-bcbc3a124d40",
+      "doc_metadata": {
+        "page_label": "24",
+        "file_name": "D1S04-Thompson.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "f60a7899-b577-4419-85f9-a2a1604c98d6",
+      "doc_metadata": {
+        "page_label": "34",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "8d963904-9029-45fc-b704-4c41826627a7",
+      "doc_metadata": {
+        "page_label": "4",
+        "file_name": "32 - Good Pharmacovigilance Practices (GVP) - 06December2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "6878d6b5-fc73-4c96-9f6c-17f38b8f6e3b",
+      "doc_metadata": {
+        "file_name": "29 - Lean Authoring - 08November2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "44f764fb-bef4-4139-a83c-3fcb513dcda3",
+      "doc_metadata": {
+        "page_label": "24",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "04087cee-cce1-41aa-968e-bbcd8f07c60d",
+      "doc_metadata": {
+        "page_label": "7",
+        "file_name": "D1S04-Thompson.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "6d0fa46d-7871-4160-beb7-1f6a38b789ce",
+      "doc_metadata": {
+        "page_label": "30",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "f1494c28-e241-476d-9d00-4237ff1868e9",
+      "doc_metadata": {
+        "page_label": "12",
+        "file_name": "32 - Good Pharmacovigilance Practices (GVP) - 06December2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "3733daad-8a1d-4270-877c-1b38469372ad",
+      "doc_metadata": {
+        "file_name": "10 - Intern_New Hires - Client Communication Best Practices - 21June2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "1f8eb055-400a-4e9a-99cc-4005175542c8",
+      "doc_metadata": {
+        "page_label": "16",
+        "file_name": "32 - Good Pharmacovigilance Practices (GVP) - 06December2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "2e28904d-b9b8-4a43-af24-bbdb152bc308",
+      "doc_metadata": {
+        "page_label": "3",
+        "file_name": "32 - Good Pharmacovigilance Practices (GVP) - 06December2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "cef98eee-7e4d-4ba9-a01a-cdae8c24b07c",
+      "doc_metadata": {
+        "file_name": "16 - Summarizing Clinical Efficacy Data - 02August2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "46b9ca72-7d6d-4615-8d62-73cee394b088",
+      "doc_metadata": {
+        "page_label": "4",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "41f7efc8-463f-4b2c-b864-b3e28d63f56b",
+      "doc_metadata": {
+        "page_label": "19",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "98786e06-6082-4403-ab01-07f51e6ffdf0",
+      "doc_metadata": {
+        "page_label": "33",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "6b9ffe5b-e897-41a2-8cbe-f106c60b3acb",
+      "doc_metadata": {
+        "page_label": "18",
+        "file_name": "D1S04-Thompson.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "d0e3186a-df7d-46ca-ab9f-a80f5beb4d34",
+      "doc_metadata": {
+        "page_label": "9",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "e31111c7-7a06-4673-aa4e-02868cd20e63",
+      "doc_metadata": {
+        "page_label": "9",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "6dd32d8d-a476-41cf-9183-8e64f410d2a8",
+      "doc_metadata": {
+        "page_label": "27",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "af477319-e75a-4a9c-87ce-bd807eac8ce3",
+      "doc_metadata": {
+        "page_label": "41",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "ee3a3dc9-8f7e-4eec-b9fb-92c834fde6cd",
+      "doc_metadata": {
+        "page_label": "33",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "09a54960-adba-4331-b56b-bd1571951709",
+      "doc_metadata": {
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "d041c47d-1482-4352-8b68-75260db45b42",
+      "doc_metadata": {
+        "page_label": "25",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "a686ba62-6aba-473b-84ee-329265f86c3d",
+      "doc_metadata": {
+        "page_label": "32",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "a327f250-a41b-402e-bd90-b2cb9e1b1977",
+      "doc_metadata": {
+        "page_label": "6",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "b94f175b-c487-46e5-a00f-6e69034ef8f0",
+      "doc_metadata": {
+        "file_name": "11 - Who's Who in Clinical Development - 28June2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "0b555db1-de83-407d-b729-8df0c0069421",
+      "doc_metadata": {
+        "page_label": "4",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "8bcc4341-ba16-4502-bcc5-fb63a9af771c",
+      "doc_metadata": {
+        "page_label": "1",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "72d636b4-34ed-42ba-9885-aa297d4ed50a",
+      "doc_metadata": {
+        "file_name": "04 - Interns_New Hires - Usage and Style Guides - 10May2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "0d036944-8e56-47b5-a583-6ee0d392694c",
+      "doc_metadata": {
+        "page_label": "4",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "2f1da1a7-bb10-4213-9ea6-2e005129bda0",
+      "doc_metadata": {
+        "page_label": "5",
+        "file_name": "32 - Good Pharmacovigilance Practices (GVP) - 06December2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "5cba056e-d957-48ca-820a-0ce9d4004738",
+      "doc_metadata": {
+        "page_label": "36",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "021222f3-042a-4478-b262-a50880c435a4",
+      "doc_metadata": {
+        "file_name": "29 - Lean Authoring - 08November2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "1c005ee1-92a5-4644-82f6-964bc0a5da5b",
+      "doc_metadata": {
+        "page_label": "28",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "2d1dc88b-b3c3-47a3-b967-cc3e4afa3b1c",
+      "doc_metadata": {
+        "page_label": "2",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "8928d61f-be83-4c6d-92a6-02228592838e",
+      "doc_metadata": {
+        "page_label": "24",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "888de7ae-4622-487e-acf1-bc5771389b2c",
+      "doc_metadata": {
+        "page_label": "30",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "2c278130-4c23-4ce0-85ea-a95eace720e1",
+      "doc_metadata": {
+        "page_label": "13",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "f7f421d4-5729-4613-8b54-8eb9def05ba2",
+      "doc_metadata": {
+        "file_name": "30 - Electronic Common Technical (eCTD) + Publishing - 15November2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "0473b529-8828-4d7e-b541-9517a274db86",
+      "doc_metadata": {
+        "file_name": "17 - Patient Reported Outcomes - 09August2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "594617e3-4ad4-4934-91b2-7b2fa70f88e6",
+      "doc_metadata": {
+        "file_name": "20 - Summarizing Clinical and Safety Data II - 30August2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "2b2353b3-8fc9-4d70-844c-ffe9eb52d715",
+      "doc_metadata": {
+        "page_label": "18",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "77bb457e-8789-4967-a777-129a335b16c8",
+      "doc_metadata": {
+        "file_name": "09 - Best Practices for Document Review and Roundtables - 14June2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "fbb9bd1b-0dd1-44f9-aa2e-2206dab35bb6",
+      "doc_metadata": {
+        "page_label": "13",
+        "file_name": "32 - Good Pharmacovigilance Practices (GVP) - 06December2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "1db914ae-c87d-4ba1-94d6-226f2cbca047",
+      "doc_metadata": {
+        "page_label": "21",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "9b8fa292-4568-4e3b-879b-f315483ed663",
+      "doc_metadata": {
+        "page_label": "42",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "1460098e-16c8-4d7b-bf03-5fe1dc4ed5f9",
+      "doc_metadata": {
+        "file_name": "13 - Interns_New Hires - Writing CSRs - From TLFs to Report - 12July2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "fc984124-59f9-47db-9eab-ff123d31234f",
+      "doc_metadata": {
+        "file_name": "18 - PK_PD-What Does it Mean - 16August2023 (2).mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "bbe7b00e-dfa6-46dc-a877-3431d2180053",
+      "doc_metadata": {
+        "file_name": "11 - Who's Who in Clinical Development - 28June2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "51eec0fc-0669-43c6-8fb6-a195bc59a344",
+      "doc_metadata": {
+        "page_label": "9",
+        "file_name": "D1S04-Thompson.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "30f1bec2-37ec-4e4d-83e2-e8ca4fb29217",
+      "doc_metadata": {
+        "page_label": "21",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "d43248ca-de56-4d41-a2c5-a247c1bac583",
+      "doc_metadata": {
+        "page_label": "2",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "fccd8ea5-8947-4db0-a617-4d10baac5ea6",
+      "doc_metadata": {
+        "file_name": "03 - Quality Control (QC)- Best Practices - 03May2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "7bb4dad5-69ac-4215-95e3-8d0dadd3e9d9",
+      "doc_metadata": {
+        "file_name": "03 - Quality Control (QC)- Best Practices - 03May2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "97a5e934-d95d-4399-9762-a20370bed695",
+      "doc_metadata": {
+        "file_name": "31 - Orphan Drug Designation (ODD) - 29November2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "b1362209-917c-4d07-abb7-04cbf651bec7",
+      "doc_metadata": {
+        "file_name": "16 - Summarizing Clinical Efficacy Data - 02August2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "2f1bb791-79d8-49c3-8820-77da9a7f879a",
+      "doc_metadata": {
+        "file_name": "14 - Trends in the Use and Direction of Tech in MW Industry and at WI - 19JUL2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "679d2ecf-9397-4f11-9302-39490dd2dba1",
+      "doc_metadata": {
+        "page_label": "23",
+        "file_name": "D1S04-Thompson.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "d02bc649-5997-4a65-a583-306008ab366f",
+      "doc_metadata": {
+        "file_name": "04 - Advanced WIers - Public Disclosure - 10May2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "7b1d030b-70f3-4722-bf15-3b752b99976f",
+      "doc_metadata": {
+        "page_label": "13",
+        "file_name": "D1S04-Thompson.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "d0852ca6-6f88-4746-be7f-eb45f30a9098",
+      "doc_metadata": {
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "00381ab6-317d-4f4d-b663-ef6091597564",
+      "doc_metadata": {
+        "file_name": "31 - Orphan Drug Designation (ODD) - 29November2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "75c08681-e292-4d4b-a4ca-07fd9c47b0fc",
+      "doc_metadata": {
+        "page_label": "15",
+        "file_name": "32 - Good Pharmacovigilance Practices (GVP) - 06December2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "ac09fc92-d661-4acf-94c8-42465f9f582a",
+      "doc_metadata": {
+        "page_label": "29",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "3d4252f0-ed70-4069-a1d2-c962842c1dd1",
+      "doc_metadata": {
+        "page_label": "36",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "c9d72758-33b6-4905-bedc-357c13681b14",
+      "doc_metadata": {
+        "file_name": "09 - Best Practices for Document Review and Roundtables - 14June2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "40aea37a-ff40-4736-9342-0093caa47247",
+      "doc_metadata": {
+        "page_label": "15",
+        "file_name": "D1S04-Thompson.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "3f269c1e-757b-4860-918a-cae1770202b3",
+      "doc_metadata": {
+        "page_label": "8",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "9739d60d-2ad4-4dab-826c-d0043fdeeb1e",
+      "doc_metadata": {
+        "file_name": "05 - Advanced WIers_Response to Questions (RTQs) - 17May2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "e6f581ba-cb5b-4ed2-8fe0-f5d11e28ace6",
+      "doc_metadata": {
+        "page_label": "23",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "9fd347d1-d5fd-4734-af7d-82525aa8892e",
+      "doc_metadata": {
+        "page_label": "15",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "d1249a84-5293-4b8b-a1a8-864f9af857e8",
+      "doc_metadata": {
+        "file_name": "12 - Introduction to Clinical Study Reports (CSRs) - 05July2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "0e43fa06-80b1-4926-ab32-614f80af4aa9",
+      "doc_metadata": {
+        "page_label": "5",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "ead37a8a-db75-47bb-83f6-8923646ac3d6",
+      "doc_metadata": {
+        "page_label": "26",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "cc96fc0c-98f0-49d6-8bdc-daf43f115211",
+      "doc_metadata": {
+        "page_label": "40",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "3c818273-e77d-4bf6-8125-7e7fc8bd6502",
+      "doc_metadata": {
+        "file_name": "01 - Effective Mentoring and Feedback in Medical Writing - 19April2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "3281cc84-4688-470e-b675-0225518c8d88",
+      "doc_metadata": {
+        "page_label": "5",
+        "file_name": "D1S04-Thompson.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "6fc015cc-7db0-4686-953c-95bb969d77c4",
+      "doc_metadata": {
+        "page_label": "4",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "65309bab-8af8-44e8-b828-bb384ccdb780",
+      "doc_metadata": {
+        "page_label": "5",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "db216ef0-7b28-404a-bfc5-0fe3c1f5b88a",
+      "doc_metadata": {
+        "file_name": "24 - Medical Device Primer_A Level 101 Class - 27September.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "f849fe7e-2d3d-470a-a44f-884e1b209151",
+      "doc_metadata": {
+        "page_label": "26",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "41f40f69-9709-4803-8c20-24d096a915e0",
+      "doc_metadata": {
+        "page_label": "17",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "c22b73ec-ab0e-43ff-a5e3-0588dde85701",
+      "doc_metadata": {
+        "file_name": "1 - Intern Kickoff Meeting & Good Clinical Practice (GCP) & Declaration of Helsinki - 28April2021.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "2f0ed307-a516-4fe3-b343-10260dfeae75",
+      "doc_metadata": {
+        "file_name": "08 - Kickoff Meetings (KOMs) - 07June2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "8c1b330a-dc5e-4996-985c-5edce39e2b57",
+      "doc_metadata": {
+        "page_label": "13",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "99b92889-aa93-468c-b441-d35ed215ec29",
+      "doc_metadata": {
+        "file_name": "18 - PK_PD-What Does it Mean - 16August2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "45059894-d385-4445-822c-b8b12f66c019",
+      "doc_metadata": {
+        "page_label": "35",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "fa08cb58-6eea-428e-b9f3-537d3eeb1a33",
+      "doc_metadata": {
+        "page_label": "1",
+        "file_name": "32 - Good Pharmacovigilance Practices (GVP) - 06December2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "6efc2c4b-bb93-4fed-afc9-e9cc15ffc7eb",
+      "doc_metadata": {
+        "page_label": "14",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "ea6445cb-2eb0-4ef0-8be7-051ebcafe7b0",
+      "doc_metadata": {
+        "page_label": "22",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "dc0b4aae-af5b-4885-9389-f5bcd49b1376",
+      "doc_metadata": {
+        "page_label": "30",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "4933b830-8bba-4732-b448-1bfb9db9bf20",
+      "doc_metadata": {
+        "page_label": "22",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "b9a0f044-c2af-4b35-bb0c-5e6bbad507e1",
+      "doc_metadata": {
+        "file_name": "24 - Medical Device Primer_ A Level 101 Class - 27September2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "8cdcfe06-9c16-4476-87dc-8c83931c0be4",
+      "doc_metadata": {
+        "page_label": "8",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "5b949a6d-67a4-469e-b160-5358c3ab9ef0",
+      "doc_metadata": {
+        "page_label": "20",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "a3577213-e3e3-4404-a346-38f24ae24250",
+      "doc_metadata": {
+        "file_name": "22 - Safety Narrative Writing - 13September2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "ccd0b7d1-e395-4174-9236-d1a704511c29",
+      "doc_metadata": {
+        "page_label": "27",
+        "file_name": "D1S04-Thompson.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "97868f47-121a-4b21-9dd2-3145e4fc57f0",
+      "doc_metadata": {
+        "page_label": "36",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "a25c601d-7304-469b-ae41-650807960bf2",
+      "doc_metadata": {
+        "file_name": "16 - Summarizing Clinical Efficacy Data - 02August2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "b59a45e0-91f2-422b-884c-6923a075db5c",
+      "doc_metadata": {
+        "page_label": "1",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "eec0b177-c2d5-4654-a9cc-04195b58ca47",
+      "doc_metadata": {
+        "page_label": "14",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "b260b527-5c6f-4fa5-a449-b3f778b0b41d",
+      "doc_metadata": {
+        "file_name": "15 - Intern_New Hires - Statistics in Clinical Documents - 26July2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "8331363b-5a16-4cf6-903f-f4cbb3e84bcf",
+      "doc_metadata": {
+        "page_label": "12",
+        "file_name": "D1S04-Thompson.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "4303f8d0-cb77-451f-9573-f786247b75dc",
+      "doc_metadata": {
+        "page_label": "25",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "9e160e07-aeb1-435b-b3ad-644dfb485c2c",
+      "doc_metadata": {
+        "page_label": "39",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "2f22956e-9a41-4a45-a106-3ffb1c0288c5",
+      "doc_metadata": {
+        "file_name": "21 - The Protection of Human Research Participants - 06September2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "593bf016-19ce-4fc1-92fe-8cdcefb62c3c",
+      "doc_metadata": {
+        "page_label": "23",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "0ab2abbd-9d1a-4cc9-b1b9-5537f9626967",
+      "doc_metadata": {
+        "page_label": "29",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "af645338-29be-437d-89ed-6dbffa95aa89",
+      "doc_metadata": {
+        "page_label": "2",
+        "file_name": "D1S04-Thompson.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "d6acbf3c-6de0-4a2d-ad74-a960467e6c30",
+      "doc_metadata": {
+        "page_label": "5",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "94beb4fd-51c3-4087-a948-c5975a6fbca0",
+      "doc_metadata": {
+        "page_label": "7",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "97add5c8-81fb-4ad6-9403-7dda3fcb6279",
+      "doc_metadata": {
+        "file_name": "06 - Organization and Function of the Food and Drug Administration (FDA) - 24May2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "172c2650-0f0e-43c3-838d-f9524bd2dcd6",
+      "doc_metadata": {
+        "page_label": "13",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "3c64fbcb-7ffd-4cab-b090-8ec64c7d6421",
+      "doc_metadata": {
+        "page_label": "15",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "bd68cce9-dfbe-4717-a067-14973667a0fe",
+      "doc_metadata": {
+        "page_label": "8",
+        "file_name": "D1S04-Thompson.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "e81a916a-4c2b-4bb1-938b-a3f45cee178f",
+      "doc_metadata": {
+        "page_label": "13",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "25a021f1-9276-4108-bec0-0a9da0fc072e",
+      "doc_metadata": {
+        "page_label": "31",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "78bd2ea9-92d7-4f2c-af83-04da94f5b248",
+      "doc_metadata": {
+        "page_label": "37",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "5cc4574d-c8a9-40d7-91d6-c4942fe87ca7",
+      "doc_metadata": {
+        "page_label": "11",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "703b07d8-36cf-46c6-b5de-1a76e103354d",
+      "doc_metadata": {
+        "page_label": "34",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "df699da2-c70f-4cc1-b3be-3b3856a8766e",
+      "doc_metadata": {
+        "page_label": "3",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "3ed9695c-e106-44f2-827e-7f05305d0367",
+      "doc_metadata": {
+        "page_label": "6",
+        "file_name": "32 - Good Pharmacovigilance Practices (GVP) - 06December2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "98ef0eec-ddf9-4a04-aa14-6d03ebbe5dbb",
+      "doc_metadata": {
+        "page_label": "19",
+        "file_name": "D1S04-Thompson.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "925dfb41-0285-4f54-81b3-27336df8358b",
+      "doc_metadata": {
+        "page_label": "25",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "14ac30b9-ab84-4a5b-948a-57809bf06ea3",
+      "doc_metadata": {
+        "page_label": "21",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "9422ebd5-d99e-40f1-b1d4-f511556c47be",
+      "doc_metadata": {
+        "page_label": "2",
+        "file_name": "32 - Good Pharmacovigilance Practices (GVP) - 06December2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "4436c634-cd94-49f3-90e0-304e7659d69e",
+      "doc_metadata": {
+        "page_label": "14",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "f63a6319-2250-4cbc-b208-1df0584b8f7c",
+      "doc_metadata": {
+        "page_label": "10",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "73d49ee6-07e5-4086-9bbd-f39c7bf3d498",
+      "doc_metadata": {
+        "file_name": "20 - SummarizingClinical and Safety Data II - 30August2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "b24d2357-5cdb-4815-aec0-6b9d00629754",
+      "doc_metadata": {
+        "page_label": "16",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "29f6245a-2bde-40d8-98eb-d3f6b53be576",
+      "doc_metadata": {
+        "file_name": "13 - Interns_New Hires - Writing CSRs - From TLFs to Report - 12July2023.pptx"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "60a57768-c065-464d-85f2-9c98506c7af3",
+      "doc_metadata": {
+        "page_label": "10",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "c74d210e-96f6-4745-aba4-8120d7a3b2dc",
+      "doc_metadata": {
+        "page_label": "33",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "15ea7750-118d-4ce0-b414-261f6150a4ab",
+      "doc_metadata": {
+        "page_label": "37",
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "3ee648e3-bbcb-484e-a01e-7277c6353fc5",
+      "doc_metadata": {
+        "page_label": "6",
+        "file_name": "19 - Summarizing Clinical and Safety Data I - 23August2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "b7520b7c-f1f7-47aa-bd53-1d62b780661f",
+      "doc_metadata": {
+        "file_name": "25 - Therapeutic Area_Hepatology - 04October2023.mp4"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "8341ac91-b303-4344-9e51-8b84c5de417d",
+      "doc_metadata": {
+        "page_label": "8",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "f7553856-01f5-484c-8745-d4f1e8a2a10c",
+      "doc_metadata": {
+        "page_label": "25",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "5a2ae695-1882-4087-826d-e634e5e960ac",
+      "doc_metadata": {
+        "page_label": "42",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "a8f58b55-401c-4f8c-95f8-e1033e69254e",
+      "doc_metadata": {
+        "page_label": "1",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "2a13c5c6-04ea-4875-8148-4c8607427445",
+      "doc_metadata": {
+        "page_label": "28",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "7c1a0b02-ffdb-4590-8903-db68893bfee1",
+      "doc_metadata": {
+        "page_label": "10",
+        "file_name": "32 - Good Pharmacovigilance Practices (GVP) - 06December2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "b99f74a6-bafc-4b37-aeeb-26dd12a95918",
+      "doc_metadata": {
+        "page_label": "20",
+        "file_name": "D1S04-Thompson.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "43fc1897-ac3f-4880-b696-734a074fff08",
+      "doc_metadata": {
+        "page_label": "3",
+        "file_name": "D1S04-Thompson.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "9f4aad24-d1c6-47e9-90eb-5b2fc8f84387",
+      "doc_metadata": {
+        "page_label": "38",
+        "file_name": "02 - Good Clinical Practice (GCP) - 26April2023.pdf"
+      }
+    },
+    {
+      "object": "ingest.document",
+      "doc_id": "f9b0c84e-d8d7-44dc-b435-3a3b5db44bfe",
+      "doc_metadata": {
+        "file_name": "16 - Summarizing Clinical Efficacy Data - 02August2023.mp4"
+      }
+    }
+  ]
+}
