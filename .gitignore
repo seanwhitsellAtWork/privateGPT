@@ -1,6 +1,8 @@
 .venv
 Eguidances/*
 LnLaudio/*
+.env
+venv
 
 settings-me.yaml
 
