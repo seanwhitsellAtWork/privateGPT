@@ -52,12 +52,7 @@ def create_app(root_injector: Injector) -> FastAPI:
 
     if settings.ui.enabled:
         logger.debug("Importing the UI module")
-        try:
-            from private_gpt.ui.ui import PrivateGptUi
-        except ImportError as e:
-            raise ImportError(
-                "UI dependencies not found, install with `poetry install --extras ui`"
-            ) from e
+
         from private_gpt.ui.simpleui import PrivateGptUi
 
         ui = root_injector.get(PrivateGptUi)
